@@ -14,6 +14,7 @@ import com.cat.view.ui.animation.AnimationActivity
 import com.cat.view.ui.container.ContainerActivity
 import com.cat.view.ui.draw1.Draw1Activity
 import com.cat.view.ui.image.ImageActivity
+import com.cat.view.ui.open.OpenSourceActivity
 import com.cat.view.ui.progressbar.ProgressBarActivity
 import com.cat.view.ui.text.TextActivity
 import com.cat.view.utils.openActivity
@@ -84,7 +85,7 @@ class MainActivity : AppCompatActivity() {
             } else if (item.text == "ProgressBar") {
                 openActivity<ProgressBarActivity>()
             } else if (item.text == "Open Source Libraries") {
-
+                openActivity<OpenSourceActivity>()
             }
         }
 

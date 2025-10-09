@@ -44,6 +44,9 @@
         <activity android:name=".ui.animation.StereoBallSportViewActivity" />
         <activity android:name=".ui.animation.CircleStickIndicatorActivity" />
 
+        <activity android:name=".ui.open.OpenSourceActivity" />
+        <activity android:name=".ui.open.LineNumberClockActivity" />
+
     </application>
 
 </manifest>
