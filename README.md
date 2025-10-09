@@ -10,3 +10,7 @@
 ### ProgressBar
 - **CometProgressBar and CometView** reference CometProgressBarActivity.kt
 <img src="https://github.com/user-attachments/assets/1f1867da-abfd-4a18-be9d-54a401f9ba40" alt="Demo" width="300" height="600" />
+
+### Open Source
+- **https://github.com/fastcv-cc/LineNumberClock**
+<img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/7b593f2f-d62f-40d9-9da9-87a3dfbd3564" />
