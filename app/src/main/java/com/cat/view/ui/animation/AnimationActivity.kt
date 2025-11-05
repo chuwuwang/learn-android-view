@@ -12,6 +12,7 @@ class AnimationActivity : ViewBindingActivity<ActivityAnimationMainBinding>() {
 
     private fun initView() {
         binding.btnRippleLike.setOnClickListener { openActivity<RippleLikeViewActivity>() }
+        binding.btnFireExplore.setOnClickListener { openActivity<FireExploreViewActivity>() }
         binding.btnDragRestored.setOnClickListener { openActivity<DragRestoredViewActivity>() }
         binding.btnStereoBallSport.setOnClickListener { openActivity<StereoBallSportViewActivity>() }
         binding.btnCircleStickIndicator.setOnClickListener { openActivity<CircleStickIndicatorActivity>() }
