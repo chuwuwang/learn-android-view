@@ -14,3 +14,7 @@
 ### Open Source
 - **https://github.com/fastcv-cc/LineNumberClock**
 <img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/7b593f2f-d62f-40d9-9da9-87a3dfbd3564" />
+
+### Animation
+- **FireExploreView** reference FireExploreViewActivity.kt - https://mp.weixin.qq.com/s/w_1GYR1vUzmOWzkEV7JOMQ
+![eb34890bcdcf6a702d900e07f39a9c51](https://github.com/user-attachments/assets/662639ef-f5ff-42ee-b970-680e57e1f9c8)
