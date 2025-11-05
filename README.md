@@ -18,4 +18,4 @@
 ### Animation
 - **FireExploreView** reference FireExploreViewActivity.kt
 doc: https://mp.weixin.qq.com/s/w_1GYR1vUzmOWzkEV7JOMQ
-![eb34890bcdcf6a702d900e07f39a9c51](https://github.com/user-attachments/assets/662639ef-f5ff-42ee-b970-680e57e1f9c8)
+- ![eb34890bcdcf6a702d900e07f39a9c51](https://github.com/user-attachments/assets/662639ef-f5ff-42ee-b970-680e57e1f9c8)
